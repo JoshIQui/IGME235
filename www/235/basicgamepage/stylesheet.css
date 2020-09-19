@@ -1,0 +1,12 @@
+img{
+    max-width: 600px;
+    max-height: fit-content;
+}
+
+.title-image{
+    margin: 0px 10px;
+}
+
+footer{
+    background-color: lightgray;
+}

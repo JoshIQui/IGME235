@@ -1,0 +1,41 @@
+body{
+    background-color:#82A0BC;
+    @font-face {
+        font-family: Arial, sans-serif;
+        src: url(Arial, sans-serif);
+    }
+}
+
+h2{
+    color: #A7CCED;
+}
+
+p{
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.side{
+    float:right;
+    margin: 0 12px;
+}
+
+footer{
+    background-color: #545E75;
+    padding: 1rem;
+}
+
+a{
+    color: #5AA9E6
+}
+
+main{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 4/5vw;
+    padding: 1rem;
+}
+
+header{
+    padding: 1rem;
+}

@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: #D6D6B1;
+}
+
+header{
+    background-color: #B84814;
+}
+
+#self-image{
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+}
+
+#biography{
+    word-wrap: break-word;
+    width: 50%;
+    margin: auto;
+}
+
+a:link {
+    color: #B84814;
+}
+
+a:visited {
+    color: #868646;
+}
+
+.link-list{
+    padding: 5px;
+}
+
+.subject{
+    text-decoration: underline;
+}

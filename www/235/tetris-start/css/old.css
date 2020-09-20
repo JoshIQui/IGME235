@@ -1,0 +1,27 @@
+/* Do everything in this file */
+h2{
+    border-bottom: solid red;
+    clear: both;
+}
+
+figure{
+    float: right;
+    width: 40%;
+}
+
+figure img {
+    width: 105%;
+}
+
+figcaption{
+    margin-left: 5em;
+}
+
+div{
+    float: left;
+    width: 50%;
+}
+
+footer{
+    clear: both;
+}

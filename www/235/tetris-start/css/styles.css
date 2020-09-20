@@ -1,0 +1,37 @@
+figure{
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+figure img{
+    width: 100%;
+}
+
+header, main, footer{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#tetlist{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.tet{
+    flex: 0 1 450px;
+    text-align: center;
+}
+
+.tet img{
+    max-width: 60%;
+}
+
+.aliases{
+    text-align: left;
+    margin: 1em;
+}
+
+span{
+    display: block;
+    margin: 1rem 0;
+}
